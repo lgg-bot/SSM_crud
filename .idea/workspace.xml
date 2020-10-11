@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00779a6f-320c-453b-9cb9-cf693f47d428" name="Default Changelist" comment="" />
+    <list default="true" id="00779a6f-320c-453b-9cb9-cf693f47d428" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/crud/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/crud/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atguigu/crud/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atguigu/crud/controller/EmployeeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-crud-1.0-SNAPSHOT/WEB-INF/classes/com/atguigu/crud/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-crud-1.0-SNAPSHOT/WEB-INF/classes/com/atguigu/crud/controller/EmployeeController.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -39,10 +48,12 @@
     </option>
   </component>
   <component name="ProjectId" id="1h83Oy8Xpu1LSfNOIzweYwf5yhx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../followupserver" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -296,11 +307,37 @@
       <workItem from="1599962375003" duration="18682000" />
       <workItem from="1600241666356" duration="7305000" />
       <workItem from="1600302798475" duration="2130000" />
-      <workItem from="1600305832056" duration="27441000" />
+      <workItem from="1600305832056" duration="27897000" />
+      <workItem from="1600390317631" duration="885000" />
+      <workItem from="1600506976926" duration="629000" />
+      <workItem from="1600755857393" duration="783000" />
+      <workItem from="1600757564039" duration="100000" />
+      <workItem from="1600758625265" duration="31000" />
+      <workItem from="1600764487210" duration="922000" />
+      <workItem from="1600771409055" duration="58000" />
+      <workItem from="1600771531478" duration="12000" />
+      <workItem from="1600939856901" duration="1185000" />
+      <workItem from="1601020884901" duration="228000" />
+      <workItem from="1601021194699" duration="1245000" />
+      <workItem from="1601473770956" duration="1247000" />
+      <workItem from="1601715258114" duration="6231000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

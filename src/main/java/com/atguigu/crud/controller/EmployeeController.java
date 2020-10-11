@@ -30,6 +30,16 @@ public class EmployeeController {
 
     //一般来说     post请求：新增       get请求：查询       put请求：修改      delete请求：删除
 
+
+    @RequestMapping(value = "/app",method = RequestMethod.GET)
+    public void app_test() {
+
+//        String username = request.getParameter("username");
+//        String password = request.getParameter("password");
+//        System.out.println("username="+username+" ,password="+password);
+        System.out.println("username=lgg");
+    }
+
     //单个和批量删除合并
     @ResponseBody
     @RequestMapping(value = "/emp/{ids}",method = RequestMethod.DELETE)
